@@ -1,4 +1,3 @@
-gcc $CFILE -o cisfun
 #include <stdio.h>
 /
 *main - Entry point
